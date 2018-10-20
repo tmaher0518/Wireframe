@@ -1,8 +1,8 @@
-#Building a simple Wireframe using HTML and CSS
+# Building a simple Wireframe using HTML and CSS
 A wireframe is a skeletal three-dimensional model or set of images which displays the functional elements of a website or page. Wireframes are typically used for planning the site's structure and functionality. The Wireframe is a simple way to show how elements are laid out and how the site navigation should work.
 
 
-##The HTML has each of the following sections:
+## The HTML sections: 
    * Header
    * Nav
    * Aside (With a Heading)
@@ -11,7 +11,7 @@ A wireframe is a skeletal three-dimensional model or set of images which display
    * Headers contained within the Article
    * Paragraph contained within the Article
 
-##The CSS has the following styles for each of the following elements:
+## The CSS styles for each of the following elements: 
    * Body
      * font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
      * color: '#777'
