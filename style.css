@@ -7,3 +7,15 @@ body {
     color: #777;
     background: #777;
   }
+  
+header,
+nav,
+section,
+aside,
+footer {
+  display: block;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  background: #ebebeb;
+}
