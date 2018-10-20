@@ -8,7 +8,6 @@ body {
     background: #777;
   }
 
-
 header,
 nav,
 section,
@@ -21,7 +20,6 @@ footer {
   background: #ebebeb;
 }
 
-
 section {
     display: block;
     float: left;
@@ -29,7 +27,6 @@ section {
     height: 267px;
     overflow: hidden;
   }
-
 
   aside {
     display: block;
@@ -48,3 +45,13 @@ section {
   .clear {
     clear: both;
   }
+
+  h1,
+p {
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+  color: #777;
+  text-align: center;
+  background: #ebebeb;
+}
