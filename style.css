@@ -7,7 +7,7 @@ body {
     color: #777;
     background: #777;
   }
-  
+
 header,
 nav,
 section,
@@ -19,3 +19,11 @@ footer {
   text-align: center;
   background: #ebebeb;
 }
+
+section {
+    display: block;
+    float: left;
+    width: 495px;
+    height: 267px;
+    overflow: hidden;
+  }
