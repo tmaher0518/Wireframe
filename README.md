@@ -5,9 +5,9 @@ A wireframe is a skeletal three-dimensional model or set of images which display
 ### The HTML has the following sections: 
    * Header
    * Nav
-   * Aside (With a Heading)
-   * Section (With a Heading)
-   * Article (With a Heading) contained within the Section
+   * Aside 
+   * Section 
+   * Article 
    * Headers contained within the Article
    * Paragraph contained within the Article
    
