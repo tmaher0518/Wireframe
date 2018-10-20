@@ -8,7 +8,7 @@ body {
     background: #777;
   }
 
-  
+
 header,
 nav,
 section,
@@ -37,4 +37,14 @@ section {
     width: 40%;
     height: 267px;
     overflow: hidden;
+  }
+
+  article {
+    padding: 10px;
+    color: #ebebeb;
+    background: #777;
+  }
+  
+  .clear {
+    clear: both;
   }
